@@ -1,4 +1,4 @@
-import { TodosAccess } from './todosAcess'
+import { TodosAccess } from '../dataLayer/todosAcess'
 import { createLogger } from '../utils/logger'
 
 const logger = createLogger('TodosLogic')
